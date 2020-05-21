@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="288e4a67-ec5f-4878-b1db-55b20e08e034" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XthCsFkIp6fOhunR5CUvcetDEi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tusk-master/tusk-master" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.PassOb" />
+      <module name="Practices" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="288e4a67-ec5f-4878-b1db-55b20e08e034" name="Default Changelist" comment="" />
+      <created>1581871174183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581871174183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="57" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589969447589">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1589969447589" />
+    <state x="57" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589279707986" />
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1587559365806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587559365806" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589969446521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1589969446521" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1589279707207" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587636114078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587636114078" />
+    <state x="469" y="78" key="#xdebugger.evaluate" timestamp="1588423798517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="469" y="78" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1588423798517" />
+    <state x="441" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587385819182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1587385819182" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1588841237478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588841237478" />
+    <state width="1322" height="195" key="GridCell.Tab.0.bottom" timestamp="1590042891811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1590042891811" />
+    <state width="1322" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589280346565" />
+    <state width="1322" height="195" key="GridCell.Tab.0.center" timestamp="1590042891811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="195" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1590042891811" />
+    <state width="1322" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589280346565" />
+    <state width="1322" height="195" key="GridCell.Tab.0.left" timestamp="1590042891811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="195" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1590042891811" />
+    <state width="1322" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589280346565" />
+    <state width="1322" height="195" key="GridCell.Tab.0.right" timestamp="1590042891811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="195" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1590042891811" />
+    <state width="1322" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589280346565" />
+    <state width="1322" height="195" key="GridCell.Tab.1.bottom" timestamp="1590042892707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="195" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1590042892707" />
+    <state width="1322" height="164" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589280346786" />
+    <state width="1322" height="195" key="GridCell.Tab.1.center" timestamp="1590042892707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="195" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1590042892707" />
+    <state width="1322" height="164" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589280346786" />
+    <state width="1322" height="195" key="GridCell.Tab.1.left" timestamp="1590042892707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="195" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1590042892707" />
+    <state width="1322" height="164" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589280346786" />
+    <state width="1322" height="195" key="GridCell.Tab.1.right" timestamp="1590042892707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="195" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1590042892707" />
+    <state width="1322" height="164" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589280346786" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1582819112645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582819112645" />
+    <state x="444" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1589997065448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1589997065448" />
+    <state x="444" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589256653185" />
+    <state x="260" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588330624994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="260" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1588330624994" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587043524052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587043524052" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1585043549147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585043549147" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587383995645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587383995645" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ContDemo.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/HelpClassDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/HelpClassDemo.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/HelpClassDemo.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/HelpClassDemo.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/DemoPwr.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/DemoPwr.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/DemoPwr.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ArrayDemo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Bubble.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Continue.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AssignARef.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Serch.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/NoZeroDiv.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/PassOb.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/PassOb.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/PassOb.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="topBal" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practices$Main.ic" NAME="Main Coverage Results" MODIFIED="1588330604181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
